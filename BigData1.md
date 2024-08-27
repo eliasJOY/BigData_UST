@@ -171,3 +171,5 @@ a) Modes of Config
 - This was resolved in version of hadoop 2 after introducing the secondary NameNode conmcept.
 - Zookeper acts as a cordinator that monitors and instructs the active NameNode for the healthy working of the cluster. It monitors the overall working of the convertions of the NameNodes.
 - **HDFS has default block size of 128MB**
+  
+  
